@@ -4,7 +4,7 @@ function About() {
     return (
         <div className='lg:flex lg:flex-row lg:justify-evenly sm:ml-5 '>
             <div className='border-4 border-indigo-500/100 rounded-full lg:visible sm:invisible'>
-                <img className="rounded-full " src='https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80' />
+                <img className="rounded-full " src='https://res.cloudinary.com/casablancaa/image/upload/v1660648911/shoponline/test/DSC_9547_1_h4osll.jpg' />
             </div>
             <div className='space-y-7 text-2xl font-semibold text-white' style={{ marginTop: "100px" }}>
                 <div >
